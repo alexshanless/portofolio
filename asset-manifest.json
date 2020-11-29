@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/pupster/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pupster/static/js/main.bd1897ba.chunk.js",
-    "main.js.map": "/pupster/static/js/main.bd1897ba.chunk.js.map",
-    "runtime-main.js": "/pupster/static/js/runtime-main.ee181ea0.js",
-    "runtime-main.js.map": "/pupster/static/js/runtime-main.ee181ea0.js.map",
-    "static/js/2.f067d412.chunk.js": "/pupster/static/js/2.f067d412.chunk.js",
-    "static/js/2.f067d412.chunk.js.map": "/pupster/static/js/2.f067d412.chunk.js.map",
-    "static/js/3.bc7a882c.chunk.js": "/pupster/static/js/3.bc7a882c.chunk.js",
-    "static/js/3.bc7a882c.chunk.js.map": "/pupster/static/js/3.bc7a882c.chunk.js.map",
+    "main.css": "/pupster/static/css/main.600550df.chunk.css",
+    "main.js": "/pupster/static/js/main.f1e274c0.chunk.js",
+    "main.js.map": "/pupster/static/js/main.f1e274c0.chunk.js.map",
+    "runtime-main.js": "/pupster/static/js/runtime-main.b8413d69.js",
+    "runtime-main.js.map": "/pupster/static/js/runtime-main.b8413d69.js.map",
+    "static/js/2.3a33febd.chunk.js": "/pupster/static/js/2.3a33febd.chunk.js",
+    "static/js/2.3a33febd.chunk.js.map": "/pupster/static/js/2.3a33febd.chunk.js.map",
     "index.html": "/pupster/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/pupster/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.f067d412.chunk.js.LICENSE.txt": "/pupster/static/js/2.f067d412.chunk.js.LICENSE.txt"
+    "static/css/main.600550df.chunk.css.map": "/pupster/static/css/main.600550df.chunk.css.map",
+    "static/js/2.3a33febd.chunk.js.LICENSE.txt": "/pupster/static/js/2.3a33febd.chunk.js.LICENSE.txt",
+    "static/media/avatar.4f2d6a35.png": "/pupster/static/media/avatar.4f2d6a35.png",
+    "static/media/champleag.a6346fdb.PNG": "/pupster/static/media/champleag.a6346fdb.PNG",
+    "static/media/covidTracker.f755e586.PNG": "/pupster/static/media/covidTracker.f755e586.PNG",
+    "static/media/peterson.86790f26.PNG": "/pupster/static/media/peterson.86790f26.PNG",
+    "static/media/App.css": "/pupster/static/media/semi-opened-laptop-computer-turned-on-on-table-2047905.4b2c167c.jpg",
+    "static/media/under-construction-signage-on-laptop-keyboard-211122.7426b19e.jpg": "/pupster/static/media/under-construction-signage-on-laptop-keyboard-211122.7426b19e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee181ea0.js",
-    "static/js/2.f067d412.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.bd1897ba.chunk.js"
+    "static/js/runtime-main.b8413d69.js",
+    "static/js/2.3a33febd.chunk.js",
+    "static/css/main.600550df.chunk.css",
+    "static/js/main.f1e274c0.chunk.js"
   ]
 }
