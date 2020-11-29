@@ -1,21 +1,21 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavTabs from "./components/NavTabs";
+import { Route } from "react-router-dom";
+import CssBaseline from "@material-ui/core/CssBaseline";
+import Home from "./components/index";
 import "./App.css";
-import { About } from "./components/About";
-import { Discover } from "./components/Discover";
-import { Search } from "./components/Search";
+import Resume from "./components/Resume.jsx";
+import Portfolio from "./components/Portfolio";
+import Contacts from "./components/Contacts";
 
 function App() {
   return (
-    <Router>
-      <div>
-        <NavTabs />
-        <Route exact path="/" component={About} />
-        <Route exact path="/discover" component={Discover} />
-        <Route exact path="/search" component={Search} />
-      </div>
-    </Router>
+    <>
+      <CssBaseline />
+      <Route exact path="/" component={Home} />
+      <Route exact path="/resume" component={Resume} />
+      <Route exact path="/portfolio" component={Portfolio} />
+      <Route exact path="/contacts" component={Contacts} />
+    </>
   );
 }
 
